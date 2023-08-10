@@ -1,0 +1,947 @@
+{
+  "total_months": 93,
+  "total_years": 7,
+  "additional_months": 9,
+  "table_headers": [
+    "Total Months",
+    "Current Year",
+    "Current Month",
+    "Current Savings",
+    "Monthly Income",
+    "Monthly Savings",
+    "Savings Ratio",
+    "Yearly Income Increase Rate"
+  ],
+  "savings_list": [
+    {
+      "total_month": 1,
+      "current_year": 0,
+      "current_month": 1,
+      "current_savings": "$1,375.00",
+      "monthly_income": "$4,583.33",
+      "monthly_savings": "$1,375.00",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 2,
+      "current_year": 0,
+      "current_month": 2,
+      "current_savings": "$2,750.00",
+      "monthly_income": "$4,583.33",
+      "monthly_savings": "$1,375.00",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 3,
+      "current_year": 0,
+      "current_month": 3,
+      "current_savings": "$4,125.00",
+      "monthly_income": "$4,583.33",
+      "monthly_savings": "$1,375.00",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 4,
+      "current_year": 0,
+      "current_month": 4,
+      "current_savings": "$5,500.00",
+      "monthly_income": "$4,583.33",
+      "monthly_savings": "$1,375.00",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 5,
+      "current_year": 0,
+      "current_month": 5,
+      "current_savings": "$6,875.00",
+      "monthly_income": "$4,583.33",
+      "monthly_savings": "$1,375.00",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 6,
+      "current_year": 0,
+      "current_month": 6,
+      "current_savings": "$8,250.00",
+      "monthly_income": "$4,583.33",
+      "monthly_savings": "$1,375.00",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 7,
+      "current_year": 0,
+      "current_month": 7,
+      "current_savings": "$9,625.00",
+      "monthly_income": "$4,583.33",
+      "monthly_savings": "$1,375.00",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 8,
+      "current_year": 0,
+      "current_month": 8,
+      "current_savings": "$11,000.00",
+      "monthly_income": "$4,583.33",
+      "monthly_savings": "$1,375.00",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 9,
+      "current_year": 0,
+      "current_month": 9,
+      "current_savings": "$12,375.00",
+      "monthly_income": "$4,583.33",
+      "monthly_savings": "$1,375.00",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 10,
+      "current_year": 0,
+      "current_month": 10,
+      "current_savings": "$13,750.00",
+      "monthly_income": "$4,583.33",
+      "monthly_savings": "$1,375.00",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 11,
+      "current_year": 0,
+      "current_month": 11,
+      "current_savings": "$15,125.00",
+      "monthly_income": "$4,583.33",
+      "monthly_savings": "$1,375.00",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 12,
+      "current_year": 0,
+      "current_month": 12,
+      "current_savings": "$16,500.00",
+      "monthly_income": "$4,583.33",
+      "monthly_savings": "$1,375.00",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 13,
+      "current_year": 1,
+      "current_month": 1,
+      "current_savings": "$17,943.75",
+      "monthly_income": "$4,812.50",
+      "monthly_savings": "$1,443.75",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 14,
+      "current_year": 1,
+      "current_month": 2,
+      "current_savings": "$19,387.50",
+      "monthly_income": "$4,812.50",
+      "monthly_savings": "$1,443.75",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 15,
+      "current_year": 1,
+      "current_month": 3,
+      "current_savings": "$20,831.25",
+      "monthly_income": "$4,812.50",
+      "monthly_savings": "$1,443.75",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 16,
+      "current_year": 1,
+      "current_month": 4,
+      "current_savings": "$22,275.00",
+      "monthly_income": "$4,812.50",
+      "monthly_savings": "$1,443.75",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 17,
+      "current_year": 1,
+      "current_month": 5,
+      "current_savings": "$23,718.75",
+      "monthly_income": "$4,812.50",
+      "monthly_savings": "$1,443.75",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 18,
+      "current_year": 1,
+      "current_month": 6,
+      "current_savings": "$25,162.50",
+      "monthly_income": "$4,812.50",
+      "monthly_savings": "$1,443.75",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 19,
+      "current_year": 1,
+      "current_month": 7,
+      "current_savings": "$26,606.25",
+      "monthly_income": "$4,812.50",
+      "monthly_savings": "$1,443.75",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 20,
+      "current_year": 1,
+      "current_month": 8,
+      "current_savings": "$28,050.00",
+      "monthly_income": "$4,812.50",
+      "monthly_savings": "$1,443.75",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 21,
+      "current_year": 1,
+      "current_month": 9,
+      "current_savings": "$29,493.75",
+      "monthly_income": "$4,812.50",
+      "monthly_savings": "$1,443.75",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 22,
+      "current_year": 1,
+      "current_month": 10,
+      "current_savings": "$30,937.50",
+      "monthly_income": "$4,812.50",
+      "monthly_savings": "$1,443.75",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 23,
+      "current_year": 1,
+      "current_month": 11,
+      "current_savings": "$32,381.25",
+      "monthly_income": "$4,812.50",
+      "monthly_savings": "$1,443.75",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 24,
+      "current_year": 1,
+      "current_month": 12,
+      "current_savings": "$33,825.00",
+      "monthly_income": "$4,812.50",
+      "monthly_savings": "$1,443.75",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 25,
+      "current_year": 2,
+      "current_month": 1,
+      "current_savings": "$35,340.94",
+      "monthly_income": "$5,053.12",
+      "monthly_savings": "$1,515.94",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 26,
+      "current_year": 2,
+      "current_month": 2,
+      "current_savings": "$36,856.88",
+      "monthly_income": "$5,053.12",
+      "monthly_savings": "$1,515.94",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 27,
+      "current_year": 2,
+      "current_month": 3,
+      "current_savings": "$38,372.82",
+      "monthly_income": "$5,053.12",
+      "monthly_savings": "$1,515.94",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 28,
+      "current_year": 2,
+      "current_month": 4,
+      "current_savings": "$39,888.76",
+      "monthly_income": "$5,053.12",
+      "monthly_savings": "$1,515.94",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 29,
+      "current_year": 2,
+      "current_month": 5,
+      "current_savings": "$41,404.70",
+      "monthly_income": "$5,053.12",
+      "monthly_savings": "$1,515.94",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 30,
+      "current_year": 2,
+      "current_month": 6,
+      "current_savings": "$42,920.64",
+      "monthly_income": "$5,053.12",
+      "monthly_savings": "$1,515.94",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 31,
+      "current_year": 2,
+      "current_month": 7,
+      "current_savings": "$44,436.58",
+      "monthly_income": "$5,053.12",
+      "monthly_savings": "$1,515.94",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 32,
+      "current_year": 2,
+      "current_month": 8,
+      "current_savings": "$45,952.52",
+      "monthly_income": "$5,053.12",
+      "monthly_savings": "$1,515.94",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 33,
+      "current_year": 2,
+      "current_month": 9,
+      "current_savings": "$47,468.46",
+      "monthly_income": "$5,053.12",
+      "monthly_savings": "$1,515.94",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 34,
+      "current_year": 2,
+      "current_month": 10,
+      "current_savings": "$48,984.40",
+      "monthly_income": "$5,053.12",
+      "monthly_savings": "$1,515.94",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 35,
+      "current_year": 2,
+      "current_month": 11,
+      "current_savings": "$50,500.34",
+      "monthly_income": "$5,053.12",
+      "monthly_savings": "$1,515.94",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 36,
+      "current_year": 2,
+      "current_month": 12,
+      "current_savings": "$52,016.28",
+      "monthly_income": "$5,053.12",
+      "monthly_savings": "$1,515.94",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 37,
+      "current_year": 3,
+      "current_month": 1,
+      "current_savings": "$53,608.01",
+      "monthly_income": "$5,305.78",
+      "monthly_savings": "$1,591.73",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 38,
+      "current_year": 3,
+      "current_month": 2,
+      "current_savings": "$55,199.74",
+      "monthly_income": "$5,305.78",
+      "monthly_savings": "$1,591.73",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 39,
+      "current_year": 3,
+      "current_month": 3,
+      "current_savings": "$56,791.47",
+      "monthly_income": "$5,305.78",
+      "monthly_savings": "$1,591.73",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 40,
+      "current_year": 3,
+      "current_month": 4,
+      "current_savings": "$58,383.20",
+      "monthly_income": "$5,305.78",
+      "monthly_savings": "$1,591.73",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 41,
+      "current_year": 3,
+      "current_month": 5,
+      "current_savings": "$59,974.93",
+      "monthly_income": "$5,305.78",
+      "monthly_savings": "$1,591.73",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 42,
+      "current_year": 3,
+      "current_month": 6,
+      "current_savings": "$61,566.66",
+      "monthly_income": "$5,305.78",
+      "monthly_savings": "$1,591.73",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 43,
+      "current_year": 3,
+      "current_month": 7,
+      "current_savings": "$63,158.39",
+      "monthly_income": "$5,305.78",
+      "monthly_savings": "$1,591.73",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 44,
+      "current_year": 3,
+      "current_month": 8,
+      "current_savings": "$64,750.12",
+      "monthly_income": "$5,305.78",
+      "monthly_savings": "$1,591.73",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 45,
+      "current_year": 3,
+      "current_month": 9,
+      "current_savings": "$66,341.85",
+      "monthly_income": "$5,305.78",
+      "monthly_savings": "$1,591.73",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 46,
+      "current_year": 3,
+      "current_month": 10,
+      "current_savings": "$67,933.58",
+      "monthly_income": "$5,305.78",
+      "monthly_savings": "$1,591.73",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 47,
+      "current_year": 3,
+      "current_month": 11,
+      "current_savings": "$69,525.31",
+      "monthly_income": "$5,305.78",
+      "monthly_savings": "$1,591.73",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 48,
+      "current_year": 3,
+      "current_month": 12,
+      "current_savings": "$71,117.04",
+      "monthly_income": "$5,305.78",
+      "monthly_savings": "$1,591.73",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 49,
+      "current_year": 4,
+      "current_month": 1,
+      "current_savings": "$72,788.36",
+      "monthly_income": "$5,571.07",
+      "monthly_savings": "$1,671.32",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 50,
+      "current_year": 4,
+      "current_month": 2,
+      "current_savings": "$74,459.68",
+      "monthly_income": "$5,571.07",
+      "monthly_savings": "$1,671.32",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 51,
+      "current_year": 4,
+      "current_month": 3,
+      "current_savings": "$76,131.00",
+      "monthly_income": "$5,571.07",
+      "monthly_savings": "$1,671.32",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 52,
+      "current_year": 4,
+      "current_month": 4,
+      "current_savings": "$77,802.32",
+      "monthly_income": "$5,571.07",
+      "monthly_savings": "$1,671.32",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 53,
+      "current_year": 4,
+      "current_month": 5,
+      "current_savings": "$79,473.64",
+      "monthly_income": "$5,571.07",
+      "monthly_savings": "$1,671.32",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 54,
+      "current_year": 4,
+      "current_month": 6,
+      "current_savings": "$81,144.96",
+      "monthly_income": "$5,571.07",
+      "monthly_savings": "$1,671.32",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 55,
+      "current_year": 4,
+      "current_month": 7,
+      "current_savings": "$82,816.28",
+      "monthly_income": "$5,571.07",
+      "monthly_savings": "$1,671.32",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 56,
+      "current_year": 4,
+      "current_month": 8,
+      "current_savings": "$84,487.60",
+      "monthly_income": "$5,571.07",
+      "monthly_savings": "$1,671.32",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 57,
+      "current_year": 4,
+      "current_month": 9,
+      "current_savings": "$86,158.92",
+      "monthly_income": "$5,571.07",
+      "monthly_savings": "$1,671.32",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 58,
+      "current_year": 4,
+      "current_month": 10,
+      "current_savings": "$87,830.24",
+      "monthly_income": "$5,571.07",
+      "monthly_savings": "$1,671.32",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 59,
+      "current_year": 4,
+      "current_month": 11,
+      "current_savings": "$89,501.56",
+      "monthly_income": "$5,571.07",
+      "monthly_savings": "$1,671.32",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 60,
+      "current_year": 4,
+      "current_month": 12,
+      "current_savings": "$91,172.88",
+      "monthly_income": "$5,571.07",
+      "monthly_savings": "$1,671.32",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 61,
+      "current_year": 5,
+      "current_month": 1,
+      "current_savings": "$92,927.77",
+      "monthly_income": "$5,849.62",
+      "monthly_savings": "$1,754.89",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 62,
+      "current_year": 5,
+      "current_month": 2,
+      "current_savings": "$94,682.66",
+      "monthly_income": "$5,849.62",
+      "monthly_savings": "$1,754.89",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 63,
+      "current_year": 5,
+      "current_month": 3,
+      "current_savings": "$96,437.55",
+      "monthly_income": "$5,849.62",
+      "monthly_savings": "$1,754.89",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 64,
+      "current_year": 5,
+      "current_month": 4,
+      "current_savings": "$98,192.44",
+      "monthly_income": "$5,849.62",
+      "monthly_savings": "$1,754.89",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 65,
+      "current_year": 5,
+      "current_month": 5,
+      "current_savings": "$99,947.33",
+      "monthly_income": "$5,849.62",
+      "monthly_savings": "$1,754.89",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 66,
+      "current_year": 5,
+      "current_month": 6,
+      "current_savings": "$101,702.22",
+      "monthly_income": "$5,849.62",
+      "monthly_savings": "$1,754.89",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 67,
+      "current_year": 5,
+      "current_month": 7,
+      "current_savings": "$103,457.11",
+      "monthly_income": "$5,849.62",
+      "monthly_savings": "$1,754.89",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 68,
+      "current_year": 5,
+      "current_month": 8,
+      "current_savings": "$105,212.00",
+      "monthly_income": "$5,849.62",
+      "monthly_savings": "$1,754.89",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 69,
+      "current_year": 5,
+      "current_month": 9,
+      "current_savings": "$106,966.89",
+      "monthly_income": "$5,849.62",
+      "monthly_savings": "$1,754.89",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 70,
+      "current_year": 5,
+      "current_month": 10,
+      "current_savings": "$108,721.78",
+      "monthly_income": "$5,849.62",
+      "monthly_savings": "$1,754.89",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 71,
+      "current_year": 5,
+      "current_month": 11,
+      "current_savings": "$110,476.67",
+      "monthly_income": "$5,849.62",
+      "monthly_savings": "$1,754.89",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 72,
+      "current_year": 5,
+      "current_month": 12,
+      "current_savings": "$112,231.56",
+      "monthly_income": "$5,849.62",
+      "monthly_savings": "$1,754.89",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 73,
+      "current_year": 6,
+      "current_month": 1,
+      "current_savings": "$114,074.19",
+      "monthly_income": "$6,142.11",
+      "monthly_savings": "$1,842.63",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 74,
+      "current_year": 6,
+      "current_month": 2,
+      "current_savings": "$115,916.82",
+      "monthly_income": "$6,142.11",
+      "monthly_savings": "$1,842.63",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 75,
+      "current_year": 6,
+      "current_month": 3,
+      "current_savings": "$117,759.45",
+      "monthly_income": "$6,142.11",
+      "monthly_savings": "$1,842.63",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 76,
+      "current_year": 6,
+      "current_month": 4,
+      "current_savings": "$119,602.08",
+      "monthly_income": "$6,142.11",
+      "monthly_savings": "$1,842.63",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 77,
+      "current_year": 6,
+      "current_month": 5,
+      "current_savings": "$121,444.71",
+      "monthly_income": "$6,142.11",
+      "monthly_savings": "$1,842.63",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 78,
+      "current_year": 6,
+      "current_month": 6,
+      "current_savings": "$123,287.34",
+      "monthly_income": "$6,142.11",
+      "monthly_savings": "$1,842.63",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 79,
+      "current_year": 6,
+      "current_month": 7,
+      "current_savings": "$125,129.97",
+      "monthly_income": "$6,142.11",
+      "monthly_savings": "$1,842.63",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 80,
+      "current_year": 6,
+      "current_month": 8,
+      "current_savings": "$126,972.60",
+      "monthly_income": "$6,142.11",
+      "monthly_savings": "$1,842.63",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 81,
+      "current_year": 6,
+      "current_month": 9,
+      "current_savings": "$128,815.23",
+      "monthly_income": "$6,142.11",
+      "monthly_savings": "$1,842.63",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 82,
+      "current_year": 6,
+      "current_month": 10,
+      "current_savings": "$130,657.86",
+      "monthly_income": "$6,142.11",
+      "monthly_savings": "$1,842.63",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 83,
+      "current_year": 6,
+      "current_month": 11,
+      "current_savings": "$132,500.49",
+      "monthly_income": "$6,142.11",
+      "monthly_savings": "$1,842.63",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 84,
+      "current_year": 6,
+      "current_month": 12,
+      "current_savings": "$134,343.12",
+      "monthly_income": "$6,142.11",
+      "monthly_savings": "$1,842.63",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 85,
+      "current_year": 7,
+      "current_month": 1,
+      "current_savings": "$136,277.88",
+      "monthly_income": "$6,449.21",
+      "monthly_savings": "$1,934.76",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 86,
+      "current_year": 7,
+      "current_month": 2,
+      "current_savings": "$138,212.64",
+      "monthly_income": "$6,449.21",
+      "monthly_savings": "$1,934.76",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 87,
+      "current_year": 7,
+      "current_month": 3,
+      "current_savings": "$140,147.40",
+      "monthly_income": "$6,449.21",
+      "monthly_savings": "$1,934.76",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 88,
+      "current_year": 7,
+      "current_month": 4,
+      "current_savings": "$142,082.16",
+      "monthly_income": "$6,449.21",
+      "monthly_savings": "$1,934.76",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 89,
+      "current_year": 7,
+      "current_month": 5,
+      "current_savings": "$144,016.92",
+      "monthly_income": "$6,449.21",
+      "monthly_savings": "$1,934.76",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 90,
+      "current_year": 7,
+      "current_month": 6,
+      "current_savings": "$145,951.68",
+      "monthly_income": "$6,449.21",
+      "monthly_savings": "$1,934.76",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 91,
+      "current_year": 7,
+      "current_month": 7,
+      "current_savings": "$147,886.44",
+      "monthly_income": "$6,449.21",
+      "monthly_savings": "$1,934.76",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 92,
+      "current_year": 7,
+      "current_month": 8,
+      "current_savings": "$149,821.20",
+      "monthly_income": "$6,449.21",
+      "monthly_savings": "$1,934.76",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    },
+    {
+      "total_month": 93,
+      "current_year": 7,
+      "current_month": 9,
+      "current_savings": "$151,755.96",
+      "monthly_income": "$6,449.21",
+      "monthly_savings": "$1,934.76",
+      "savings_ratio": "30.0%",
+      "yearly_income_increase_rate": "5.0%"
+    }
+  ]
+}
