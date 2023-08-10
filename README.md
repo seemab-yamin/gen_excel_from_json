@@ -1,10 +1,19 @@
-# Excel Sheets Generation From the JSON file
-Clients wants to have a script that can read data from JSON file and generate an Excel file with two sheets
+# Automated Excel Sheet Generation from JSON Data
+Our clients have expressed the need for a script capable of extracting information from JSON files and seamlessly producing Excel spreadsheets comprising two distinct sheets.
 
-This program will read a JSON file namde as `dream_result.json` in current directry and generate an output Excel file name as `output_file.xlsx` in current directory.
+This software solution has been developed to meticulously parse a JSON file named `dream_result.json`, located within the program's present directory. Subsequently, it orchestrates the creation of an Excel output file named `output_file.xlsx`, also situated within the same directory.
 
-## Requirements
-`pip install pandas openpyxl`
+## Prerequisites
+Ensure the installation of the following Python packages using the command:
+```bash
+pip install pandas openpyxl
+```
 
-## Command To Run
-`python main.py`
+## Execute Command
+To execute the program, utilize the following command:
+```bash
+python main.py
+```
+
+## Video Demonstration
+For a detailed visual walkthrough of the entire process, please refer to the [video demonstration](https://www.loom.com/share/2088b30998f6465fa34e5b99e34f7746).
